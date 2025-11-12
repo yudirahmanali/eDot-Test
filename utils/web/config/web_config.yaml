@@ -1,0 +1,4 @@
+base_url: "https://esuite.edot.id"
+credentials:
+  email: "it.qa@edot.id"
+  password: "it.QA2025"
