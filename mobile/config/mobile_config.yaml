@@ -1,0 +1,8 @@
+deviceName: "Android Emulator"
+platformName: "Android"
+appPackage: "com.edot.ework"
+appActivity: ".MainActivity"
+credentials:
+  company_id: "5049209"
+  email: "qatestsalesman"
+  password: "it.QA2025"
